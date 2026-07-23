@@ -10,14 +10,10 @@
 
 
 ---
-
-# GitHub Stats:  
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=amir-azari&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-azari&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amir-azari&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amir-azari&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
-
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=amir-azari&icon=0&color=1)](https://visitcount.itsvg.in)
